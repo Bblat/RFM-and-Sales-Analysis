@@ -16,3 +16,8 @@ Furthermore, the project showcases the development of an intuitive sales analysi
 
   
 This repository serves as a valuable resource for analysts, data scientists, and business professionals interested in customer segmentation, association analysis, and sales analytics. By leveraging RFM analysis, SQL, and Tableau, it provides the necessary tools and techniques to uncover actionable insights and drive business growth.
+
+# Citations
+- https://www.youtube.com/watch?v=O2hlHzehZb0
+- https://medium.com/@sj20997/tableau-c9d6962991ca
+- https://www.engagebay.com/blog/sales-analysis/
