@@ -8,9 +8,11 @@ Furthermore, the project showcases the development of an intuitive sales analysi
 
 # Key Features:
 
-RFM analysis implementation using SQL: Segment customers based on recency, frequency, and monetary value of their transactions.
-Association analysis with SQL: Discover products frequently purchased together, enhancing cross-selling opportunities.
-Sales analysis dashboard using Tableau: Develop an intuitive interface to explore and visualize sales data, enabling effective decision-making.
-Easy-to-understand SQL queries and scripts: Accessible codebase for performing RFM analysis and association analysis.
-Interactive visualizations and metrics: Gain valuable insights from the sales analysis dashboard, presented in a visually appealing manner.
+- RFM analysis implementation using SQL: Segment customers based on recency, frequency, and monetary value of their transactions.
+- Association analysis with SQL: Discover products frequently purchased together, enhancing cross-selling opportunities.
+- Sales analysis dashboard using Tableau: Develop an intuitive interface to explore and visualize sales data, enabling effective   decision-making.
+- Easy-to-understand SQL queries and scripts: Accessible codebase for performing RFM analysis and association analysis.
+- Interactive visualizations and metrics: Gain valuable insights from the sales analysis dashboard, presented in a visually appealing manner.
+
+  
 This repository serves as a valuable resource for analysts, data scientists, and business professionals interested in customer segmentation, association analysis, and sales analytics. By leveraging RFM analysis, SQL, and Tableau, it provides the necessary tools and techniques to uncover actionable insights and drive business growth.
