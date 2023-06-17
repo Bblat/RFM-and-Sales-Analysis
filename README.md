@@ -6,7 +6,7 @@ Additionally, the repository includes SQL queries and scripts to identify which 
 
 Furthermore, the project showcases the development of an intuitive sales analysis dashboard using Tableau. This interactive dashboard provides a visually appealing and user-friendly interface to explore and analyze sales data. It presents key metrics, trends, and visualizations that help stakeholders gain actionable insights and make data-driven decisions.
 
-# Key Features:
+# Key Features
 
 - RFM analysis implementation using SQL: Segment customers based on recency, frequency, and monetary value of their transactions.
 - Association analysis with SQL: Discover products frequently purchased together, enhancing cross-selling opportunities.
