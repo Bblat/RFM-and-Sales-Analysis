@@ -1,6 +1,4 @@
-SELECT * FROM [Portfolio].[dbo].[sales_data_sample]
-
-SELECT * FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = N'sales_data_sample'
+SELECT * FROM sales_data_sample
 
 -- Select unique values in each column
 SELECT DISTINCT status FROM sales_data_sample -- Nice to plot
